@@ -20,6 +20,7 @@ public class Login extends JFrame implements ActionListener {
      passwordField=new JPasswordField(30);	
      loginButton=new JButton("LOGIN");	
      resetButton=new JButton("RESET");	
+	 
      resetButton.setBackground(Color.WHITE);
      loginButton.setBackground(Color.WHITE);
      
